@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Talk to Somebody</string>
+    <string name="toggle_txtmode">Toggle textmode</string>
+    <string name="action_share">Share</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_to_translate">Speak a phrase to translate</string>
+    <string name="translate_text_first">Make sure to translate a text first</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="language">Choose language</string>
+    <string name="from">FROM</string>
+    <string name="to">TO</string>
+    <string name="action_language">Choose which language you want to speech</string>
+    <string name="action_speech_off">Turn off speech</string>
+    <string name="some_language">Turn off speech</string>
+    <string name="add_phrase_prompt">Enter phrase, Choose lang</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="translate_txt">Translate</string>
+    <string name="delete_x">X</string>
+    <string name="list_but_txt">List</string>
+    <string name="edit_text_trans_hint">Enter a phrase</string>
+
+</resources>
